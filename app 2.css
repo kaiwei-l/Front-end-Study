@@ -1,0 +1,27 @@
+h1 {
+	color: rgba(11, 99, 150, 1);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px solid rgb(255,100,80);
+}
+
+h2 {
+	color: #4B0082;
+}
+
+h3 {
+	color: #FF1493;
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2079322/910/606/m2/fpnw/wm1/mon9b2bnilpjwtrl5bgkriqqgojazjdxvkwifai2g7eqva2cltxbon2vktifwsda-.jpg?1483200767&s=f8b3bbc8a7f78f40bd5f99afa6a6bc2d);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
